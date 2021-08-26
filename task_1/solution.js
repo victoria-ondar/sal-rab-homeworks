@@ -5,6 +5,8 @@ function addInCartMessage(title, price) {
     console.log(message)
 
 
+
+    
     // Задание №1.1. Оповещение о добавлении в корзину
 
     // создайте переменную message 
@@ -54,4 +56,3 @@ function addInCartSumChange(sum, delta) {
 
     return newSumText;
 }
-
